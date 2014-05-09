@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary     = "Automatically generate a sitemap.xml for your Jekyll site."
   s.version     = "0.4.0"
   s.authors     = ["GitHub, Inc."]
-  s.email       = "support@github.com"
+  s.email       = "lilunia32@wp.pl"
   s.homepage    = "https://github.com/github/jekyll-sitemap"
   s.licenses    = ["MIT"]
 
